@@ -1,2 +1,2 @@
-# Making-and-Deleting-Folders
-to make and delete text files with node.js / java script
+# Dosya Oluşturma Ve Silme
+node.js ile (java script) dosya oluşturma ve silme
